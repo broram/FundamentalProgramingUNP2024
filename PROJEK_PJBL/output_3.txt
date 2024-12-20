@@ -1,0 +1,1000 @@
+Nilai: -11 - Error: Nilai tidak valid
+Nilai: 9 - Kategori: E
+Nilai: 96 - Kategori: A
+Nilai: 160 - Error: Nilai tidak valid
+Nilai: -54 - Error: Nilai tidak valid
+Nilai: 21 - Kategori: E
+Nilai: -92 - Error: Nilai tidak valid
+Nilai: 7 - Kategori: E
+Nilai: 195 - Error: Nilai tidak valid
+Nilai: 35 - Kategori: E
+Nilai: 76 - Kategori: B
+Nilai: -20 - Error: Nilai tidak valid
+Nilai: -52 - Error: Nilai tidak valid
+Nilai: 86 - Kategori: A
+Nilai: -37 - Error: Nilai tidak valid
+Nilai: -23 - Error: Nilai tidak valid
+Nilai: -63 - Error: Nilai tidak valid
+Nilai: -75 - Error: Nilai tidak valid
+Nilai: -88 - Error: Nilai tidak valid
+Nilai: -8 - Error: Nilai tidak valid
+Nilai: -55 - Error: Nilai tidak valid
+Nilai: 67 - Kategori: C
+Nilai: 121 - Error: Nilai tidak valid
+Nilai: -74 - Error: Nilai tidak valid
+Nilai: 163 - Error: Nilai tidak valid
+Nilai: 180 - Error: Nilai tidak valid
+Nilai: -90 - Error: Nilai tidak valid
+Nilai: -23 - Error: Nilai tidak valid
+Nilai: 166 - Error: Nilai tidak valid
+Nilai: -82 - Error: Nilai tidak valid
+Nilai: 124 - Error: Nilai tidak valid
+Nilai: 165 - Error: Nilai tidak valid
+Nilai: 158 - Error: Nilai tidak valid
+Nilai: -17 - Error: Nilai tidak valid
+Nilai: -93 - Error: Nilai tidak valid
+Nilai: -47 - Error: Nilai tidak valid
+Nilai: -32 - Error: Nilai tidak valid
+Nilai: 59 - Kategori: C
+Nilai: 1 - Kategori: E
+Nilai: 129 - Error: Nilai tidak valid
+Nilai: -74 - Error: Nilai tidak valid
+Nilai: 171 - Error: Nilai tidak valid
+Nilai: 18 - Kategori: E
+Nilai: 96 - Kategori: A
+Nilai: 66 - Kategori: C
+Nilai: 163 - Error: Nilai tidak valid
+Nilai: 31 - Kategori: E
+Nilai: 48 - Kategori: D
+Nilai: 50 - Kategori: D
+Nilai: 108 - Error: Nilai tidak valid
+Nilai: 53 - Kategori: D
+Nilai: -96 - Error: Nilai tidak valid
+Nilai: -82 - Error: Nilai tidak valid
+Nilai: 39 - Kategori: E
+Nilai: 164 - Error: Nilai tidak valid
+Nilai: 23 - Kategori: E
+Nilai: -92 - Error: Nilai tidak valid
+Nilai: 14 - Kategori: E
+Nilai: 25 - Kategori: E
+Nilai: -52 - Error: Nilai tidak valid
+Nilai: -72 - Error: Nilai tidak valid
+Nilai: -60 - Error: Nilai tidak valid
+Nilai: 16 - Kategori: E
+Nilai: -35 - Error: Nilai tidak valid
+Nilai: 52 - Kategori: D
+Nilai: -93 - Error: Nilai tidak valid
+Nilai: 144 - Error: Nilai tidak valid
+Nilai: 21 - Kategori: E
+Nilai: 186 - Error: Nilai tidak valid
+Nilai: 106 - Error: Nilai tidak valid
+Nilai: 108 - Error: Nilai tidak valid
+Nilai: -72 - Error: Nilai tidak valid
+Nilai: 55 - Kategori: C
+Nilai: -85 - Error: Nilai tidak valid
+Nilai: 48 - Kategori: D
+Nilai: 119 - Error: Nilai tidak valid
+Nilai: 123 - Error: Nilai tidak valid
+Nilai: -93 - Error: Nilai tidak valid
+Nilai: 138 - Error: Nilai tidak valid
+Nilai: 94 - Kategori: A
+Nilai: 60 - Kategori: C
+Nilai: 194 - Error: Nilai tidak valid
+Nilai: 1 - Kategori: E
+Nilai: 4 - Kategori: E
+Nilai: 101 - Error: Nilai tidak valid
+Nilai: 179 - Error: Nilai tidak valid
+Nilai: -71 - Error: Nilai tidak valid
+Nilai: 22 - Kategori: E
+Nilai: 177 - Error: Nilai tidak valid
+Nilai: 24 - Kategori: E
+Nilai: -25 - Error: Nilai tidak valid
+Nilai: -70 - Error: Nilai tidak valid
+Nilai: 58 - Kategori: C
+Nilai: 117 - Error: Nilai tidak valid
+Nilai: 193 - Error: Nilai tidak valid
+Nilai: 163 - Error: Nilai tidak valid
+Nilai: 190 - Error: Nilai tidak valid
+Nilai: 149 - Error: Nilai tidak valid
+Nilai: -4 - Error: Nilai tidak valid
+Nilai: 113 - Error: Nilai tidak valid
+Nilai: 68 - Kategori: C
+Nilai: -82 - Error: Nilai tidak valid
+Nilai: 6 - Kategori: E
+Nilai: 141 - Error: Nilai tidak valid
+Nilai: -84 - Error: Nilai tidak valid
+Nilai: 97 - Kategori: A
+Nilai: -49 - Error: Nilai tidak valid
+Nilai: 88 - Kategori: A
+Nilai: 133 - Error: Nilai tidak valid
+Nilai: -59 - Error: Nilai tidak valid
+Nilai: -13 - Error: Nilai tidak valid
+Nilai: 12 - Kategori: E
+Nilai: 89 - Kategori: A
+Nilai: 159 - Error: Nilai tidak valid
+Nilai: 68 - Kategori: C
+Nilai: 130 - Error: Nilai tidak valid
+Nilai: -72 - Error: Nilai tidak valid
+Nilai: 167 - Error: Nilai tidak valid
+Nilai: 43 - Kategori: D
+Nilai: 161 - Error: Nilai tidak valid
+Nilai: -17 - Error: Nilai tidak valid
+Nilai: 162 - Error: Nilai tidak valid
+Nilai: 38 - Kategori: E
+Nilai: -81 - Error: Nilai tidak valid
+Nilai: 24 - Kategori: E
+Nilai: 154 - Error: Nilai tidak valid
+Nilai: 128 - Error: Nilai tidak valid
+Nilai: 156 - Error: Nilai tidak valid
+Nilai: -27 - Error: Nilai tidak valid
+Nilai: 48 - Kategori: D
+Nilai: 25 - Kategori: E
+Nilai: -75 - Error: Nilai tidak valid
+Nilai: 193 - Error: Nilai tidak valid
+Nilai: -20 - Error: Nilai tidak valid
+Nilai: 155 - Error: Nilai tidak valid
+Nilai: -60 - Error: Nilai tidak valid
+Nilai: 165 - Error: Nilai tidak valid
+Nilai: 94 - Kategori: A
+Nilai: 189 - Error: Nilai tidak valid
+Nilai: -39 - Error: Nilai tidak valid
+Nilai: 156 - Error: Nilai tidak valid
+Nilai: 73 - Kategori: B
+Nilai: 137 - Error: Nilai tidak valid
+Nilai: 105 - Error: Nilai tidak valid
+Nilai: -55 - Error: Nilai tidak valid
+Nilai: 163 - Error: Nilai tidak valid
+Nilai: -95 - Error: Nilai tidak valid
+Nilai: -11 - Error: Nilai tidak valid
+Nilai: 4 - Kategori: E
+Nilai: 172 - Error: Nilai tidak valid
+Nilai: 165 - Error: Nilai tidak valid
+Nilai: 127 - Error: Nilai tidak valid
+Nilai: 72 - Kategori: B
+Nilai: 69 - Kategori: C
+Nilai: 121 - Error: Nilai tidak valid
+Nilai: 106 - Error: Nilai tidak valid
+Nilai: 199 - Error: Nilai tidak valid
+Nilai: 18 - Kategori: E
+Nilai: -65 - Error: Nilai tidak valid
+Nilai: 125 - Error: Nilai tidak valid
+Nilai: 182 - Error: Nilai tidak valid
+Nilai: 18 - Kategori: E
+Nilai: 9 - Kategori: E
+Nilai: -19 - Error: Nilai tidak valid
+Nilai: 45 - Kategori: D
+Nilai: 79 - Kategori: B
+Nilai: 122 - Error: Nilai tidak valid
+Nilai: 79 - Kategori: B
+Nilai: 119 - Error: Nilai tidak valid
+Nilai: -89 - Error: Nilai tidak valid
+Nilai: 56 - Kategori: C
+Nilai: 132 - Error: Nilai tidak valid
+Nilai: -25 - Error: Nilai tidak valid
+Nilai: -4 - Error: Nilai tidak valid
+Nilai: 77 - Kategori: B
+Nilai: -33 - Error: Nilai tidak valid
+Nilai: 113 - Error: Nilai tidak valid
+Nilai: 73 - Kategori: B
+Nilai: 0 - Kategori: E
+Nilai: -51 - Error: Nilai tidak valid
+Nilai: -39 - Error: Nilai tidak valid
+Nilai: 184 - Error: Nilai tidak valid
+Nilai: -92 - Error: Nilai tidak valid
+Nilai: 54 - Kategori: D
+Nilai: 70 - Kategori: B
+Nilai: 109 - Error: Nilai tidak valid
+Nilai: -98 - Error: Nilai tidak valid
+Nilai: 167 - Error: Nilai tidak valid
+Nilai: -55 - Error: Nilai tidak valid
+Nilai: -6 - Error: Nilai tidak valid
+Nilai: 27 - Kategori: E
+Nilai: 162 - Error: Nilai tidak valid
+Nilai: -31 - Error: Nilai tidak valid
+Nilai: 45 - Kategori: D
+Nilai: 28 - Kategori: E
+Nilai: -98 - Error: Nilai tidak valid
+Nilai: 142 - Error: Nilai tidak valid
+Nilai: -100 - Error: Nilai tidak valid
+Nilai: 93 - Kategori: A
+Nilai: 39 - Kategori: E
+Nilai: 116 - Error: Nilai tidak valid
+Nilai: 188 - Error: Nilai tidak valid
+Nilai: 138 - Error: Nilai tidak valid
+Nilai: 147 - Error: Nilai tidak valid
+Nilai: 80 - Kategori: B
+Nilai: -35 - Error: Nilai tidak valid
+Nilai: 117 - Error: Nilai tidak valid
+Nilai: -90 - Error: Nilai tidak valid
+Nilai: 114 - Error: Nilai tidak valid
+Nilai: -9 - Error: Nilai tidak valid
+Nilai: 5 - Kategori: E
+Nilai: 98 - Kategori: A
+Nilai: -13 - Error: Nilai tidak valid
+Nilai: 103 - Error: Nilai tidak valid
+Nilai: 9 - Kategori: E
+Nilai: 146 - Error: Nilai tidak valid
+Nilai: -62 - Error: Nilai tidak valid
+Nilai: 96 - Kategori: A
+Nilai: 179 - Error: Nilai tidak valid
+Nilai: -90 - Error: Nilai tidak valid
+Nilai: -26 - Error: Nilai tidak valid
+Nilai: 33 - Kategori: E
+Nilai: 122 - Error: Nilai tidak valid
+Nilai: 199 - Error: Nilai tidak valid
+Nilai: -8 - Error: Nilai tidak valid
+Nilai: 165 - Error: Nilai tidak valid
+Nilai: 101 - Error: Nilai tidak valid
+Nilai: 173 - Error: Nilai tidak valid
+Nilai: 45 - Kategori: D
+Nilai: 19 - Kategori: E
+Nilai: -82 - Error: Nilai tidak valid
+Nilai: -10 - Error: Nilai tidak valid
+Nilai: -70 - Error: Nilai tidak valid
+Nilai: -36 - Error: Nilai tidak valid
+Nilai: 70 - Kategori: B
+Nilai: -55 - Error: Nilai tidak valid
+Nilai: 112 - Error: Nilai tidak valid
+Nilai: 160 - Error: Nilai tidak valid
+Nilai: -3 - Error: Nilai tidak valid
+Nilai: -41 - Error: Nilai tidak valid
+Nilai: -30 - Error: Nilai tidak valid
+Nilai: 101 - Error: Nilai tidak valid
+Nilai: 161 - Error: Nilai tidak valid
+Nilai: -81 - Error: Nilai tidak valid
+Nilai: -58 - Error: Nilai tidak valid
+Nilai: -98 - Error: Nilai tidak valid
+Nilai: 83 - Kategori: B
+Nilai: 21 - Kategori: E
+Nilai: 136 - Error: Nilai tidak valid
+Nilai: 58 - Kategori: C
+Nilai: -21 - Error: Nilai tidak valid
+Nilai: 60 - Kategori: C
+Nilai: -29 - Error: Nilai tidak valid
+Nilai: -88 - Error: Nilai tidak valid
+Nilai: -61 - Error: Nilai tidak valid
+Nilai: 168 - Error: Nilai tidak valid
+Nilai: -19 - Error: Nilai tidak valid
+Nilai: 139 - Error: Nilai tidak valid
+Nilai: 153 - Error: Nilai tidak valid
+Nilai: 152 - Error: Nilai tidak valid
+Nilai: 107 - Error: Nilai tidak valid
+Nilai: -68 - Error: Nilai tidak valid
+Nilai: 180 - Error: Nilai tidak valid
+Nilai: 120 - Error: Nilai tidak valid
+Nilai: 141 - Error: Nilai tidak valid
+Nilai: -8 - Error: Nilai tidak valid
+Nilai: 106 - Error: Nilai tidak valid
+Nilai: 8 - Kategori: E
+Nilai: 65 - Kategori: C
+Nilai: -93 - Error: Nilai tidak valid
+Nilai: 184 - Error: Nilai tidak valid
+Nilai: 109 - Error: Nilai tidak valid
+Nilai: -50 - Error: Nilai tidak valid
+Nilai: 71 - Kategori: B
+Nilai: 1 - Kategori: E
+Nilai: -42 - Error: Nilai tidak valid
+Nilai: -18 - Error: Nilai tidak valid
+Nilai: 86 - Kategori: A
+Nilai: 33 - Kategori: E
+Nilai: 82 - Kategori: B
+Nilai: -83 - Error: Nilai tidak valid
+Nilai: -99 - Error: Nilai tidak valid
+Nilai: 24 - Kategori: E
+Nilai: 136 - Error: Nilai tidak valid
+Nilai: -4 - Error: Nilai tidak valid
+Nilai: 52 - Kategori: D
+Nilai: 34 - Kategori: E
+Nilai: 10 - Kategori: E
+Nilai: -2 - Error: Nilai tidak valid
+Nilai: -42 - Error: Nilai tidak valid
+Nilai: 37 - Kategori: E
+Nilai: 70 - Kategori: B
+Nilai: 134 - Error: Nilai tidak valid
+Nilai: -8 - Error: Nilai tidak valid
+Nilai: 74 - Kategori: B
+Nilai: 150 - Error: Nilai tidak valid
+Nilai: 61 - Kategori: C
+Nilai: -69 - Error: Nilai tidak valid
+Nilai: -23 - Error: Nilai tidak valid
+Nilai: 167 - Error: Nilai tidak valid
+Nilai: -25 - Error: Nilai tidak valid
+Nilai: 139 - Error: Nilai tidak valid
+Nilai: -16 - Error: Nilai tidak valid
+Nilai: -7 - Error: Nilai tidak valid
+Nilai: 25 - Kategori: E
+Nilai: 131 - Error: Nilai tidak valid
+Nilai: 131 - Error: Nilai tidak valid
+Nilai: 55 - Kategori: C
+Nilai: 199 - Error: Nilai tidak valid
+Nilai: -46 - Error: Nilai tidak valid
+Nilai: 197 - Error: Nilai tidak valid
+Nilai: -80 - Error: Nilai tidak valid
+Nilai: -33 - Error: Nilai tidak valid
+Nilai: -55 - Error: Nilai tidak valid
+Nilai: -89 - Error: Nilai tidak valid
+Nilai: 25 - Kategori: E
+Nilai: 129 - Error: Nilai tidak valid
+Nilai: 62 - Kategori: C
+Nilai: 96 - Kategori: A
+Nilai: 57 - Kategori: C
+Nilai: 49 - Kategori: D
+Nilai: 37 - Kategori: E
+Nilai: 173 - Error: Nilai tidak valid
+Nilai: -95 - Error: Nilai tidak valid
+Nilai: 38 - Kategori: E
+Nilai: 15 - Kategori: E
+Nilai: -76 - Error: Nilai tidak valid
+Nilai: 7 - Kategori: E
+Nilai: 74 - Kategori: B
+Nilai: 93 - Kategori: A
+Nilai: 34 - Kategori: E
+Nilai: 130 - Error: Nilai tidak valid
+Nilai: -86 - Error: Nilai tidak valid
+Nilai: -5 - Error: Nilai tidak valid
+Nilai: -56 - Error: Nilai tidak valid
+Nilai: -12 - Error: Nilai tidak valid
+Nilai: -90 - Error: Nilai tidak valid
+Nilai: 117 - Error: Nilai tidak valid
+Nilai: 23 - Kategori: E
+Nilai: -100 - Error: Nilai tidak valid
+Nilai: 12 - Kategori: E
+Nilai: 182 - Error: Nilai tidak valid
+Nilai: 67 - Kategori: C
+Nilai: 25 - Kategori: E
+Nilai: 112 - Error: Nilai tidak valid
+Nilai: 51 - Kategori: D
+Nilai: 136 - Error: Nilai tidak valid
+Nilai: 88 - Kategori: A
+Nilai: 84 - Kategori: B
+Nilai: 84 - Kategori: B
+Nilai: 100 - Kategori: A
+Nilai: 189 - Error: Nilai tidak valid
+Nilai: -7 - Error: Nilai tidak valid
+Nilai: -64 - Error: Nilai tidak valid
+Nilai: 175 - Error: Nilai tidak valid
+Nilai: -46 - Error: Nilai tidak valid
+Nilai: -7 - Error: Nilai tidak valid
+Nilai: -95 - Error: Nilai tidak valid
+Nilai: -54 - Error: Nilai tidak valid
+Nilai: -33 - Error: Nilai tidak valid
+Nilai: -6 - Error: Nilai tidak valid
+Nilai: 7 - Kategori: E
+Nilai: -50 - Error: Nilai tidak valid
+Nilai: -52 - Error: Nilai tidak valid
+Nilai: 193 - Error: Nilai tidak valid
+Nilai: 80 - Kategori: B
+Nilai: 123 - Error: Nilai tidak valid
+Nilai: 147 - Error: Nilai tidak valid
+Nilai: 4 - Kategori: E
+Nilai: 86 - Kategori: A
+Nilai: -57 - Error: Nilai tidak valid
+Nilai: -7 - Error: Nilai tidak valid
+Nilai: 31 - Kategori: E
+Nilai: 65 - Kategori: C
+Nilai: 146 - Error: Nilai tidak valid
+Nilai: 41 - Kategori: D
+Nilai: -52 - Error: Nilai tidak valid
+Nilai: -45 - Error: Nilai tidak valid
+Nilai: 162 - Error: Nilai tidak valid
+Nilai: -28 - Error: Nilai tidak valid
+Nilai: 199 - Error: Nilai tidak valid
+Nilai: 16 - Kategori: E
+Nilai: 28 - Kategori: E
+Nilai: 74 - Kategori: B
+Nilai: 185 - Error: Nilai tidak valid
+Nilai: 123 - Error: Nilai tidak valid
+Nilai: -40 - Error: Nilai tidak valid
+Nilai: -69 - Error: Nilai tidak valid
+Nilai: 86 - Kategori: A
+Nilai: 1 - Kategori: E
+Nilai: -77 - Error: Nilai tidak valid
+Nilai: 157 - Error: Nilai tidak valid
+Nilai: -66 - Error: Nilai tidak valid
+Nilai: 19 - Kategori: E
+Nilai: 147 - Error: Nilai tidak valid
+Nilai: 43 - Kategori: D
+Nilai: 148 - Error: Nilai tidak valid
+Nilai: 11 - Kategori: E
+Nilai: 76 - Kategori: B
+Nilai: 122 - Error: Nilai tidak valid
+Nilai: -76 - Error: Nilai tidak valid
+Nilai: 62 - Kategori: C
+Nilai: 106 - Error: Nilai tidak valid
+Nilai: 68 - Kategori: C
+Nilai: 97 - Kategori: A
+Nilai: 187 - Error: Nilai tidak valid
+Nilai: 74 - Kategori: B
+Nilai: 135 - Error: Nilai tidak valid
+Nilai: 187 - Error: Nilai tidak valid
+Nilai: 118 - Error: Nilai tidak valid
+Nilai: 8 - Kategori: E
+Nilai: 90 - Kategori: A
+Nilai: -19 - Error: Nilai tidak valid
+Nilai: -26 - Error: Nilai tidak valid
+Nilai: 64 - Kategori: C
+Nilai: 31 - Kategori: E
+Nilai: 118 - Error: Nilai tidak valid
+Nilai: 3 - Kategori: E
+Nilai: -26 - Error: Nilai tidak valid
+Nilai: -33 - Error: Nilai tidak valid
+Nilai: -96 - Error: Nilai tidak valid
+Nilai: -45 - Error: Nilai tidak valid
+Nilai: 14 - Kategori: E
+Nilai: 169 - Error: Nilai tidak valid
+Nilai: 116 - Error: Nilai tidak valid
+Nilai: 185 - Error: Nilai tidak valid
+Nilai: 195 - Error: Nilai tidak valid
+Nilai: 199 - Error: Nilai tidak valid
+Nilai: 56 - Kategori: C
+Nilai: 125 - Error: Nilai tidak valid
+Nilai: 46 - Kategori: D
+Nilai: -54 - Error: Nilai tidak valid
+Nilai: 61 - Kategori: C
+Nilai: -37 - Error: Nilai tidak valid
+Nilai: 137 - Error: Nilai tidak valid
+Nilai: 96 - Kategori: A
+Nilai: 198 - Error: Nilai tidak valid
+Nilai: 24 - Kategori: E
+Nilai: 28 - Kategori: E
+Nilai: -60 - Error: Nilai tidak valid
+Nilai: 193 - Error: Nilai tidak valid
+Nilai: -29 - Error: Nilai tidak valid
+Nilai: -84 - Error: Nilai tidak valid
+Nilai: -72 - Error: Nilai tidak valid
+Nilai: 197 - Error: Nilai tidak valid
+Nilai: 82 - Kategori: B
+Nilai: 65 - Kategori: C
+Nilai: 90 - Kategori: A
+Nilai: -93 - Error: Nilai tidak valid
+Nilai: 191 - Error: Nilai tidak valid
+Nilai: 195 - Error: Nilai tidak valid
+Nilai: 113 - Error: Nilai tidak valid
+Nilai: 95 - Kategori: A
+Nilai: -46 - Error: Nilai tidak valid
+Nilai: 53 - Kategori: D
+Nilai: -30 - Error: Nilai tidak valid
+Nilai: 19 - Kategori: E
+Nilai: 56 - Kategori: C
+Nilai: 41 - Kategori: D
+Nilai: 120 - Error: Nilai tidak valid
+Nilai: 11 - Kategori: E
+Nilai: 50 - Kategori: D
+Nilai: -85 - Error: Nilai tidak valid
+Nilai: 45 - Kategori: D
+Nilai: 113 - Error: Nilai tidak valid
+Nilai: 124 - Error: Nilai tidak valid
+Nilai: 89 - Kategori: A
+Nilai: 121 - Error: Nilai tidak valid
+Nilai: 161 - Error: Nilai tidak valid
+Nilai: -64 - Error: Nilai tidak valid
+Nilai: -2 - Error: Nilai tidak valid
+Nilai: 61 - Kategori: C
+Nilai: 77 - Kategori: B
+Nilai: 156 - Error: Nilai tidak valid
+Nilai: 26 - Kategori: E
+Nilai: 40 - Kategori: D
+Nilai: 57 - Kategori: C
+Nilai: -99 - Error: Nilai tidak valid
+Nilai: -94 - Error: Nilai tidak valid
+Nilai: 2 - Kategori: E
+Nilai: -54 - Error: Nilai tidak valid
+Nilai: -63 - Error: Nilai tidak valid
+Nilai: 68 - Kategori: C
+Nilai: 104 - Error: Nilai tidak valid
+Nilai: 27 - Kategori: E
+Nilai: -75 - Error: Nilai tidak valid
+Nilai: 169 - Error: Nilai tidak valid
+Nilai: -27 - Error: Nilai tidak valid
+Nilai: 17 - Kategori: E
+Nilai: 68 - Kategori: C
+Nilai: 127 - Error: Nilai tidak valid
+Nilai: -71 - Error: Nilai tidak valid
+Nilai: -14 - Error: Nilai tidak valid
+Nilai: 163 - Error: Nilai tidak valid
+Nilai: 68 - Kategori: C
+Nilai: 162 - Error: Nilai tidak valid
+Nilai: 17 - Kategori: E
+Nilai: 118 - Error: Nilai tidak valid
+Nilai: -13 - Error: Nilai tidak valid
+Nilai: 149 - Error: Nilai tidak valid
+Nilai: 73 - Kategori: B
+Nilai: 34 - Kategori: E
+Nilai: 49 - Kategori: D
+Nilai: 70 - Kategori: B
+Nilai: 5 - Kategori: E
+Nilai: -84 - Error: Nilai tidak valid
+Nilai: 119 - Error: Nilai tidak valid
+Nilai: -94 - Error: Nilai tidak valid
+Nilai: 182 - Error: Nilai tidak valid
+Nilai: 199 - Error: Nilai tidak valid
+Nilai: 110 - Error: Nilai tidak valid
+Nilai: -58 - Error: Nilai tidak valid
+Nilai: 5 - Kategori: E
+Nilai: 85 - Kategori: A
+Nilai: 197 - Error: Nilai tidak valid
+Nilai: -8 - Error: Nilai tidak valid
+Nilai: -31 - Error: Nilai tidak valid
+Nilai: 9 - Kategori: E
+Nilai: 57 - Kategori: C
+Nilai: 168 - Error: Nilai tidak valid
+Nilai: -28 - Error: Nilai tidak valid
+Nilai: 132 - Error: Nilai tidak valid
+Nilai: -81 - Error: Nilai tidak valid
+Nilai: -90 - Error: Nilai tidak valid
+Nilai: 168 - Error: Nilai tidak valid
+Nilai: 187 - Error: Nilai tidak valid
+Nilai: 65 - Kategori: C
+Nilai: -27 - Error: Nilai tidak valid
+Nilai: 120 - Error: Nilai tidak valid
+Nilai: 140 - Error: Nilai tidak valid
+Nilai: -33 - Error: Nilai tidak valid
+Nilai: 62 - Kategori: C
+Nilai: 122 - Error: Nilai tidak valid
+Nilai: 178 - Error: Nilai tidak valid
+Nilai: 10 - Kategori: E
+Nilai: 158 - Error: Nilai tidak valid
+Nilai: 21 - Kategori: E
+Nilai: 60 - Kategori: C
+Nilai: -42 - Error: Nilai tidak valid
+Nilai: -74 - Error: Nilai tidak valid
+Nilai: 47 - Kategori: D
+Nilai: 45 - Kategori: D
+Nilai: 158 - Error: Nilai tidak valid
+Nilai: 85 - Kategori: A
+Nilai: 180 - Error: Nilai tidak valid
+Nilai: 97 - Kategori: A
+Nilai: 186 - Error: Nilai tidak valid
+Nilai: -75 - Error: Nilai tidak valid
+Nilai: 131 - Error: Nilai tidak valid
+Nilai: 69 - Kategori: C
+Nilai: -71 - Error: Nilai tidak valid
+Nilai: 26 - Kategori: E
+Nilai: 173 - Error: Nilai tidak valid
+Nilai: -8 - Error: Nilai tidak valid
+Nilai: 166 - Error: Nilai tidak valid
+Nilai: -21 - Error: Nilai tidak valid
+Nilai: -95 - Error: Nilai tidak valid
+Nilai: -12 - Error: Nilai tidak valid
+Nilai: 45 - Kategori: D
+Nilai: 7 - Kategori: E
+Nilai: 105 - Error: Nilai tidak valid
+Nilai: 121 - Error: Nilai tidak valid
+Nilai: -7 - Error: Nilai tidak valid
+Nilai: 149 - Error: Nilai tidak valid
+Nilai: 15 - Kategori: E
+Nilai: 31 - Kategori: E
+Nilai: 91 - Kategori: A
+Nilai: -42 - Error: Nilai tidak valid
+Nilai: -27 - Error: Nilai tidak valid
+Nilai: 13 - Kategori: E
+Nilai: -33 - Error: Nilai tidak valid
+Nilai: -84 - Error: Nilai tidak valid
+Nilai: 110 - Error: Nilai tidak valid
+Nilai: -96 - Error: Nilai tidak valid
+Nilai: -44 - Error: Nilai tidak valid
+Nilai: -53 - Error: Nilai tidak valid
+Nilai: -59 - Error: Nilai tidak valid
+Nilai: 104 - Error: Nilai tidak valid
+Nilai: 34 - Kategori: E
+Nilai: 13 - Kategori: E
+Nilai: 109 - Error: Nilai tidak valid
+Nilai: 25 - Kategori: E
+Nilai: 35 - Kategori: E
+Nilai: 194 - Error: Nilai tidak valid
+Nilai: 147 - Error: Nilai tidak valid
+Nilai: -47 - Error: Nilai tidak valid
+Nilai: -16 - Error: Nilai tidak valid
+Nilai: 111 - Error: Nilai tidak valid
+Nilai: 39 - Kategori: E
+Nilai: 74 - Kategori: B
+Nilai: 37 - Kategori: E
+Nilai: 71 - Kategori: B
+Nilai: 150 - Error: Nilai tidak valid
+Nilai: 63 - Kategori: C
+Nilai: 51 - Kategori: D
+Nilai: 39 - Kategori: E
+Nilai: -75 - Error: Nilai tidak valid
+Nilai: -64 - Error: Nilai tidak valid
+Nilai: -65 - Error: Nilai tidak valid
+Nilai: 125 - Error: Nilai tidak valid
+Nilai: 93 - Kategori: A
+Nilai: -80 - Error: Nilai tidak valid
+Nilai: -53 - Error: Nilai tidak valid
+Nilai: 79 - Kategori: B
+Nilai: 43 - Kategori: D
+Nilai: -1 - Error: Nilai tidak valid
+Nilai: -82 - Error: Nilai tidak valid
+Nilai: 35 - Kategori: E
+Nilai: 31 - Kategori: E
+Nilai: -82 - Error: Nilai tidak valid
+Nilai: 135 - Error: Nilai tidak valid
+Nilai: -40 - Error: Nilai tidak valid
+Nilai: 15 - Kategori: E
+Nilai: 114 - Error: Nilai tidak valid
+Nilai: 61 - Kategori: C
+Nilai: 10 - Kategori: E
+Nilai: 129 - Error: Nilai tidak valid
+Nilai: 144 - Error: Nilai tidak valid
+Nilai: 24 - Kategori: E
+Nilai: -38 - Error: Nilai tidak valid
+Nilai: 166 - Error: Nilai tidak valid
+Nilai: -11 - Error: Nilai tidak valid
+Nilai: 119 - Error: Nilai tidak valid
+Nilai: 145 - Error: Nilai tidak valid
+Nilai: -24 - Error: Nilai tidak valid
+Nilai: 174 - Error: Nilai tidak valid
+Nilai: 43 - Kategori: D
+Nilai: -50 - Error: Nilai tidak valid
+Nilai: -14 - Error: Nilai tidak valid
+Nilai: 79 - Kategori: B
+Nilai: 36 - Kategori: E
+Nilai: -60 - Error: Nilai tidak valid
+Nilai: 25 - Kategori: E
+Nilai: 133 - Error: Nilai tidak valid
+Nilai: -2 - Error: Nilai tidak valid
+Nilai: 171 - Error: Nilai tidak valid
+Nilai: 80 - Kategori: B
+Nilai: 0 - Kategori: E
+Nilai: 160 - Error: Nilai tidak valid
+Nilai: 122 - Error: Nilai tidak valid
+Nilai: -19 - Error: Nilai tidak valid
+Nilai: 198 - Error: Nilai tidak valid
+Nilai: -65 - Error: Nilai tidak valid
+Nilai: -40 - Error: Nilai tidak valid
+Nilai: 119 - Error: Nilai tidak valid
+Nilai: 63 - Kategori: C
+Nilai: -84 - Error: Nilai tidak valid
+Nilai: 37 - Kategori: E
+Nilai: -73 - Error: Nilai tidak valid
+Nilai: 108 - Error: Nilai tidak valid
+Nilai: 59 - Kategori: C
+Nilai: 132 - Error: Nilai tidak valid
+Nilai: -68 - Error: Nilai tidak valid
+Nilai: 79 - Kategori: B
+Nilai: -6 - Error: Nilai tidak valid
+Nilai: 104 - Error: Nilai tidak valid
+Nilai: 84 - Kategori: B
+Nilai: 56 - Kategori: C
+Nilai: 42 - Kategori: D
+Nilai: 180 - Error: Nilai tidak valid
+Nilai: -10 - Error: Nilai tidak valid
+Nilai: 162 - Error: Nilai tidak valid
+Nilai: 118 - Error: Nilai tidak valid
+Nilai: -45 - Error: Nilai tidak valid
+Nilai: 140 - Error: Nilai tidak valid
+Nilai: 149 - Error: Nilai tidak valid
+Nilai: -61 - Error: Nilai tidak valid
+Nilai: 88 - Kategori: A
+Nilai: 52 - Kategori: D
+Nilai: 62 - Kategori: C
+Nilai: 16 - Kategori: E
+Nilai: -96 - Error: Nilai tidak valid
+Nilai: -86 - Error: Nilai tidak valid
+Nilai: -48 - Error: Nilai tidak valid
+Nilai: -66 - Error: Nilai tidak valid
+Nilai: -27 - Error: Nilai tidak valid
+Nilai: -88 - Error: Nilai tidak valid
+Nilai: 196 - Error: Nilai tidak valid
+Nilai: 187 - Error: Nilai tidak valid
+Nilai: 30 - Kategori: E
+Nilai: -78 - Error: Nilai tidak valid
+Nilai: -91 - Error: Nilai tidak valid
+Nilai: 96 - Kategori: A
+Nilai: 106 - Error: Nilai tidak valid
+Nilai: 82 - Kategori: B
+Nilai: 34 - Kategori: E
+Nilai: -86 - Error: Nilai tidak valid
+Nilai: -98 - Error: Nilai tidak valid
+Nilai: 62 - Kategori: C
+Nilai: -52 - Error: Nilai tidak valid
+Nilai: 177 - Error: Nilai tidak valid
+Nilai: 175 - Error: Nilai tidak valid
+Nilai: 195 - Error: Nilai tidak valid
+Nilai: 197 - Error: Nilai tidak valid
+Nilai: 53 - Kategori: D
+Nilai: -21 - Error: Nilai tidak valid
+Nilai: 180 - Error: Nilai tidak valid
+Nilai: 42 - Kategori: D
+Nilai: 90 - Kategori: A
+Nilai: -51 - Error: Nilai tidak valid
+Nilai: 41 - Kategori: D
+Nilai: 198 - Error: Nilai tidak valid
+Nilai: 177 - Error: Nilai tidak valid
+Nilai: 124 - Error: Nilai tidak valid
+Nilai: -20 - Error: Nilai tidak valid
+Nilai: 39 - Kategori: E
+Nilai: -31 - Error: Nilai tidak valid
+Nilai: -83 - Error: Nilai tidak valid
+Nilai: 31 - Kategori: E
+Nilai: 193 - Error: Nilai tidak valid
+Nilai: 104 - Error: Nilai tidak valid
+Nilai: 53 - Kategori: D
+Nilai: 126 - Error: Nilai tidak valid
+Nilai: -60 - Error: Nilai tidak valid
+Nilai: 72 - Kategori: B
+Nilai: 5 - Kategori: E
+Nilai: -70 - Error: Nilai tidak valid
+Nilai: -64 - Error: Nilai tidak valid
+Nilai: -3 - Error: Nilai tidak valid
+Nilai: 43 - Kategori: D
+Nilai: -76 - Error: Nilai tidak valid
+Nilai: 108 - Error: Nilai tidak valid
+Nilai: 16 - Kategori: E
+Nilai: 8 - Kategori: E
+Nilai: 7 - Kategori: E
+Nilai: 78 - Kategori: B
+Nilai: 38 - Kategori: E
+Nilai: 84 - Kategori: B
+Nilai: -68 - Error: Nilai tidak valid
+Nilai: -67 - Error: Nilai tidak valid
+Nilai: 195 - Error: Nilai tidak valid
+Nilai: -71 - Error: Nilai tidak valid
+Nilai: 26 - Kategori: E
+Nilai: -4 - Error: Nilai tidak valid
+Nilai: 190 - Error: Nilai tidak valid
+Nilai: -72 - Error: Nilai tidak valid
+Nilai: 47 - Kategori: D
+Nilai: 182 - Error: Nilai tidak valid
+Nilai: 76 - Kategori: B
+Nilai: 74 - Kategori: B
+Nilai: 120 - Error: Nilai tidak valid
+Nilai: -23 - Error: Nilai tidak valid
+Nilai: 55 - Kategori: C
+Nilai: -76 - Error: Nilai tidak valid
+Nilai: 124 - Error: Nilai tidak valid
+Nilai: 127 - Error: Nilai tidak valid
+Nilai: -25 - Error: Nilai tidak valid
+Nilai: 123 - Error: Nilai tidak valid
+Nilai: -10 - Error: Nilai tidak valid
+Nilai: -57 - Error: Nilai tidak valid
+Nilai: 200 - Error: Nilai tidak valid
+Nilai: 141 - Error: Nilai tidak valid
+Nilai: 65 - Kategori: C
+Nilai: 106 - Error: Nilai tidak valid
+Nilai: 129 - Error: Nilai tidak valid
+Nilai: 4 - Kategori: E
+Nilai: -59 - Error: Nilai tidak valid
+Nilai: 188 - Error: Nilai tidak valid
+Nilai: 118 - Error: Nilai tidak valid
+Nilai: -69 - Error: Nilai tidak valid
+Nilai: 195 - Error: Nilai tidak valid
+Nilai: -61 - Error: Nilai tidak valid
+Nilai: 32 - Kategori: E
+Nilai: -46 - Error: Nilai tidak valid
+Nilai: 29 - Kategori: E
+Nilai: 191 - Error: Nilai tidak valid
+Nilai: 61 - Kategori: C
+Nilai: 159 - Error: Nilai tidak valid
+Nilai: -68 - Error: Nilai tidak valid
+Nilai: 189 - Error: Nilai tidak valid
+Nilai: 40 - Kategori: D
+Nilai: 44 - Kategori: D
+Nilai: 96 - Kategori: A
+Nilai: 35 - Kategori: E
+Nilai: -22 - Error: Nilai tidak valid
+Nilai: 13 - Kategori: E
+Nilai: -90 - Error: Nilai tidak valid
+Nilai: 92 - Kategori: A
+Nilai: 65 - Kategori: C
+Nilai: -72 - Error: Nilai tidak valid
+Nilai: 82 - Kategori: B
+Nilai: 140 - Error: Nilai tidak valid
+Nilai: -40 - Error: Nilai tidak valid
+Nilai: 65 - Kategori: C
+Nilai: 75 - Kategori: B
+Nilai: -67 - Error: Nilai tidak valid
+Nilai: 140 - Error: Nilai tidak valid
+Nilai: -71 - Error: Nilai tidak valid
+Nilai: 42 - Kategori: D
+Nilai: 5 - Kategori: E
+Nilai: 90 - Kategori: A
+Nilai: -95 - Error: Nilai tidak valid
+Nilai: 89 - Kategori: A
+Nilai: -88 - Error: Nilai tidak valid
+Nilai: 178 - Error: Nilai tidak valid
+Nilai: -30 - Error: Nilai tidak valid
+Nilai: 168 - Error: Nilai tidak valid
+Nilai: 169 - Error: Nilai tidak valid
+Nilai: -82 - Error: Nilai tidak valid
+Nilai: -89 - Error: Nilai tidak valid
+Nilai: 116 - Error: Nilai tidak valid
+Nilai: 171 - Error: Nilai tidak valid
+Nilai: 159 - Error: Nilai tidak valid
+Nilai: -21 - Error: Nilai tidak valid
+Nilai: 120 - Error: Nilai tidak valid
+Nilai: 73 - Kategori: B
+Nilai: 161 - Error: Nilai tidak valid
+Nilai: 122 - Error: Nilai tidak valid
+Nilai: 120 - Error: Nilai tidak valid
+Nilai: -65 - Error: Nilai tidak valid
+Nilai: -46 - Error: Nilai tidak valid
+Nilai: 24 - Kategori: E
+Nilai: 161 - Error: Nilai tidak valid
+Nilai: 165 - Error: Nilai tidak valid
+Nilai: -78 - Error: Nilai tidak valid
+Nilai: -33 - Error: Nilai tidak valid
+Nilai: -9 - Error: Nilai tidak valid
+Nilai: -33 - Error: Nilai tidak valid
+Nilai: 84 - Kategori: B
+Nilai: -20 - Error: Nilai tidak valid
+Nilai: -5 - Error: Nilai tidak valid
+Nilai: -99 - Error: Nilai tidak valid
+Nilai: 85 - Kategori: A
+Nilai: -98 - Error: Nilai tidak valid
+Nilai: 181 - Error: Nilai tidak valid
+Nilai: 48 - Kategori: D
+Nilai: 26 - Kategori: E
+Nilai: 73 - Kategori: B
+Nilai: 73 - Kategori: B
+Nilai: 176 - Error: Nilai tidak valid
+Nilai: 42 - Kategori: D
+Nilai: 193 - Error: Nilai tidak valid
+Nilai: -83 - Error: Nilai tidak valid
+Nilai: -31 - Error: Nilai tidak valid
+Nilai: -34 - Error: Nilai tidak valid
+Nilai: 44 - Kategori: D
+Nilai: -4 - Error: Nilai tidak valid
+Nilai: 174 - Error: Nilai tidak valid
+Nilai: -18 - Error: Nilai tidak valid
+Nilai: 28 - Kategori: E
+Nilai: 154 - Error: Nilai tidak valid
+Nilai: 60 - Kategori: C
+Nilai: -76 - Error: Nilai tidak valid
+Nilai: 144 - Error: Nilai tidak valid
+Nilai: 100 - Kategori: A
+Nilai: 112 - Error: Nilai tidak valid
+Nilai: -71 - Error: Nilai tidak valid
+Nilai: -84 - Error: Nilai tidak valid
+Nilai: 97 - Kategori: A
+Nilai: 98 - Kategori: A
+Nilai: 13 - Kategori: E
+Nilai: 148 - Error: Nilai tidak valid
+Nilai: 170 - Error: Nilai tidak valid
+Nilai: 107 - Error: Nilai tidak valid
+Nilai: -95 - Error: Nilai tidak valid
+Nilai: 48 - Kategori: D
+Nilai: -57 - Error: Nilai tidak valid
+Nilai: 171 - Error: Nilai tidak valid
+Nilai: 86 - Kategori: A
+Nilai: 6 - Kategori: E
+Nilai: 77 - Kategori: B
+Nilai: 134 - Error: Nilai tidak valid
+Nilai: -47 - Error: Nilai tidak valid
+Nilai: 200 - Error: Nilai tidak valid
+Nilai: 147 - Error: Nilai tidak valid
+Nilai: 135 - Error: Nilai tidak valid
+Nilai: -50 - Error: Nilai tidak valid
+Nilai: -85 - Error: Nilai tidak valid
+Nilai: 86 - Kategori: A
+Nilai: -75 - Error: Nilai tidak valid
+Nilai: 135 - Error: Nilai tidak valid
+Nilai: 170 - Error: Nilai tidak valid
+Nilai: -41 - Error: Nilai tidak valid
+Nilai: -37 - Error: Nilai tidak valid
+Nilai: -14 - Error: Nilai tidak valid
+Nilai: 142 - Error: Nilai tidak valid
+Nilai: 196 - Error: Nilai tidak valid
+Nilai: 160 - Error: Nilai tidak valid
+Nilai: -83 - Error: Nilai tidak valid
+Nilai: 1 - Kategori: E
+Nilai: 167 - Error: Nilai tidak valid
+Nilai: 160 - Error: Nilai tidak valid
+Nilai: 35 - Kategori: E
+Nilai: -29 - Error: Nilai tidak valid
+Nilai: 15 - Kategori: E
+Nilai: -50 - Error: Nilai tidak valid
+Nilai: 147 - Error: Nilai tidak valid
+Nilai: -73 - Error: Nilai tidak valid
+Nilai: 24 - Kategori: E
+Nilai: 174 - Error: Nilai tidak valid
+Nilai: 51 - Kategori: D
+Nilai: -55 - Error: Nilai tidak valid
+Nilai: -24 - Error: Nilai tidak valid
+Nilai: -90 - Error: Nilai tidak valid
+Nilai: 34 - Kategori: E
+Nilai: 45 - Kategori: D
+Nilai: -74 - Error: Nilai tidak valid
+Nilai: -12 - Error: Nilai tidak valid
+Nilai: -46 - Error: Nilai tidak valid
+Nilai: 113 - Error: Nilai tidak valid
+Nilai: 156 - Error: Nilai tidak valid
+Nilai: -80 - Error: Nilai tidak valid
+Nilai: 172 - Error: Nilai tidak valid
+Nilai: 134 - Error: Nilai tidak valid
+Nilai: 104 - Error: Nilai tidak valid
+Nilai: -92 - Error: Nilai tidak valid
+Nilai: 180 - Error: Nilai tidak valid
+Nilai: -17 - Error: Nilai tidak valid
+Nilai: 67 - Kategori: C
+Nilai: -75 - Error: Nilai tidak valid
+Nilai: -100 - Error: Nilai tidak valid
+Nilai: 104 - Error: Nilai tidak valid
+Nilai: -24 - Error: Nilai tidak valid
+Nilai: -2 - Error: Nilai tidak valid
+Nilai: -98 - Error: Nilai tidak valid
+Nilai: 140 - Error: Nilai tidak valid
+Nilai: -46 - Error: Nilai tidak valid
+Nilai: 167 - Error: Nilai tidak valid
+Nilai: 27 - Kategori: E
+Nilai: 163 - Error: Nilai tidak valid
+Nilai: 56 - Kategori: C
+Nilai: 129 - Error: Nilai tidak valid
+Nilai: 145 - Error: Nilai tidak valid
+Nilai: -22 - Error: Nilai tidak valid
+Nilai: -53 - Error: Nilai tidak valid
+Nilai: -7 - Error: Nilai tidak valid
+Nilai: 78 - Kategori: B
+Nilai: -72 - Error: Nilai tidak valid
+Nilai: 132 - Error: Nilai tidak valid
+Nilai: 28 - Kategori: E
+Nilai: -5 - Error: Nilai tidak valid
+Nilai: 111 - Error: Nilai tidak valid
+Nilai: 186 - Error: Nilai tidak valid
+Nilai: -51 - Error: Nilai tidak valid
+Nilai: -38 - Error: Nilai tidak valid
+Nilai: 170 - Error: Nilai tidak valid
+Nilai: 89 - Kategori: A
+Nilai: 162 - Error: Nilai tidak valid
+Nilai: 176 - Error: Nilai tidak valid
+Nilai: -30 - Error: Nilai tidak valid
+Nilai: 156 - Error: Nilai tidak valid
+Nilai: 20 - Kategori: E
+Nilai: -92 - Error: Nilai tidak valid
+Nilai: 19 - Kategori: E
+Nilai: 123 - Error: Nilai tidak valid
+Nilai: 145 - Error: Nilai tidak valid
+Nilai: -87 - Error: Nilai tidak valid
+Nilai: -8 - Error: Nilai tidak valid
+Nilai: 85 - Kategori: A
+Nilai: 7 - Kategori: E
+Nilai: 20 - Kategori: E
+Nilai: 129 - Error: Nilai tidak valid
+Nilai: 146 - Error: Nilai tidak valid
+Nilai: 57 - Kategori: C
+Nilai: 106 - Error: Nilai tidak valid
+Nilai: 4 - Kategori: E
+Nilai: 53 - Kategori: D
+Nilai: -36 - Error: Nilai tidak valid
+Nilai: -55 - Error: Nilai tidak valid
+Nilai: -57 - Error: Nilai tidak valid
+Nilai: 142 - Error: Nilai tidak valid
+Nilai: 148 - Error: Nilai tidak valid
+Nilai: 47 - Kategori: D
+Nilai: 178 - Error: Nilai tidak valid
+Nilai: 150 - Error: Nilai tidak valid
+Nilai: 61 - Kategori: C
+Nilai: 48 - Kategori: D
+Nilai: 132 - Error: Nilai tidak valid
+Nilai: 16 - Kategori: E
+Nilai: -10 - Error: Nilai tidak valid
+Nilai: -22 - Error: Nilai tidak valid
+Nilai: 56 - Kategori: C
+Nilai: 155 - Error: Nilai tidak valid
+Nilai: -4 - Error: Nilai tidak valid
+Nilai: 165 - Error: Nilai tidak valid
+Nilai: 111 - Error: Nilai tidak valid
+Nilai: -41 - Error: Nilai tidak valid
+Nilai: -8 - Error: Nilai tidak valid
+Nilai: 175 - Error: Nilai tidak valid
+Nilai: -59 - Error: Nilai tidak valid
+Nilai: -43 - Error: Nilai tidak valid
+Nilai: 90 - Kategori: A
+Nilai: 90 - Kategori: A
+Nilai: 149 - Error: Nilai tidak valid
+Nilai: -36 - Error: Nilai tidak valid
+Nilai: 124 - Error: Nilai tidak valid
+Nilai: 196 - Error: Nilai tidak valid
+Nilai: 172 - Error: Nilai tidak valid
+Nilai: 186 - Error: Nilai tidak valid
+Nilai: 49 - Kategori: D
+Nilai: -24 - Error: Nilai tidak valid
+Nilai: -42 - Error: Nilai tidak valid
+Nilai: 165 - Error: Nilai tidak valid
+Nilai: 178 - Error: Nilai tidak valid
+Nilai: 67 - Kategori: C
+Nilai: 86 - Kategori: A
+Nilai: 29 - Kategori: E
+Nilai: -51 - Error: Nilai tidak valid
+Nilai: -12 - Error: Nilai tidak valid
+Nilai: -34 - Error: Nilai tidak valid
